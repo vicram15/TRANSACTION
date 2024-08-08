@@ -11,13 +11,13 @@ const Footer = () => (
       <div className="flex flex-1 justify-evenly items-center flex-wrap sm:mt-0 mt-5 w-full">
         <p className="text-white text-base text-center mx-2 cursor-pointer">Market</p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">Exchange</p>
-        <p className="text-white text-base text-center mx-2 cursor-pointer">Tutorials</p>
-        <p className="text-white text-base text-center mx-2 cursor-pointer">Wallets</p>
+        <p className="text-white text-base text-center mx-2 cursor-pointer">Crowd fund</p>
+        <p className="text-white text-base text-center mx-2 cursor-pointer">Will management</p>
       </div>
     </div>
 
     <div className="flex justify-center items-center flex-col mt-5">
-      <p className="text-white text-sm text-center">join us  for the unexpected miracle</p>
+      <p className="text-white text-sm text-center">Join us  for the safer transactions</p>
       <p className="text-white text-sm text-center font-medium mt-2">REMITSAFE.com</p>
     </div>
 
